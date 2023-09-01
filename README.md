@@ -1,4 +1,4 @@
-# Counterfactuals with Structural Causal Models (SCMs)
+# Counterfactual analysis with Structural Causal Models (SCMs)
 Counterfactual analysis offers a way to answer "what-if" questions critically important in many domains where running RCT experiments is not possible.
 Below is an outline of the algorithm one can use to run simple coutnerfactual analysis on an isolated set of causally related variables.
 
